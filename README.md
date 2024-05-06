@@ -1,7 +1,7 @@
 # Lab 5 - Starter
 
-####Jiawei Huang
-####Joseph Jun
+#### Jiawei Huang
+#### Joseph Jun
 
 ## Pt 3. Unit Testing with Jest
 
