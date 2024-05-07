@@ -5,8 +5,8 @@
 
 ## Link to the GitHub page site:
 <ul>
-    <li>[explore.html](https://github.com/j2jun/Lab5_Starter/blob/master/explore.html)</li>
-    <li>[expose.html](https://github.com/j2jun/Lab5_Starter/blob/master/expose.html)</li>
+    <li> [explore.html](https://github.com/j2jun/Lab5_Starter/blob/master/explore.html)</li>
+    <li> [expose.html](https://github.com/j2jun/Lab5_Starter/blob/master/expose.html)</li>
 </ul>
 
 ## Pt 3. Unit Testing with Jest
