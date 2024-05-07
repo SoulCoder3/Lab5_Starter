@@ -4,8 +4,8 @@
 **Joseph Jun**
 
 ## Link to the GitHub page site:
-[explore.html](https://github.com/j2jun/Lab5_Starter/blob/j2jun-patch-1/explore.html) <br>
-[expose.html](https://github.com/j2jun/Lab5_Starter/blob/j2jun-patch-1/expose.html)
+[explore.html](https://github.com/j2jun/Lab5_Starter/explore.html) <br>
+[expose.html](https://j2jun.github.io/Lab5_Starter/expose.html)
 
 ## Pt 3. Unit Testing with Jest
 
